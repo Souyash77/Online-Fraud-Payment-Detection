@@ -27,9 +27,9 @@ The dataset consists of 10 variables:
 ### Python Libraries
 pandas, numpy, seaborn, matplotlib, tabulate, sklearn
 
-Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
+Random Forest and Logistics Regression were used to identify online payment fraud due to the large dataset.
+![image](https://github.com/Souyash77/Online-Fraud-Payment-Detection/assets/67053144/e2271902-a4b3-4f05-b0fe-9f7ad39f6064)
 
-![image](https://user-images.githubusercontent.com/118715799/210950017-e4d317e0-6bf4-4ecd-8313-9b8121e04e9f.png)
 
 Read the complete Online Payment Fraud Detection project [here](https://github.com/Souyash77/Online-Fraud-Payment-Detection/blob/main/online-fraud-payment-detection.ipynb).
 
